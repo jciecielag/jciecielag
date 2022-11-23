@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jciecielag
+- 👀 I’m interested in IT Security
+- 🌱 I’m currently learning C# and network
+- 📫 How to reach me ...
